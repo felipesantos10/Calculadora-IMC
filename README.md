@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/felipesantos10/Calculadora-IMC/blob/master/github%20image/Logo.png" alt="calculadora IMC" />
+   <img src="https://github.com/felipesantos10/Calculadora-IMC/blob/master/github%20image/Captura%20de%20tela%20de%202020-09-30%2010-02-57.png" alt="calculadora IMC" />
 </p>
 
 <!-- Badges -->
@@ -41,5 +41,7 @@ Uma dessas ideias, é a criação de uma  **Calculadora IMC** que auxilia o usu�
 ---
 
 <h4 align=center>Desenvolvido por Felipe Santos <a href="https://www.linkedin.com/in/luis-felipe-santos-silva-5623a8197/"> <strong>Entre em contato</strong> :)</a></a></h4>
+
+
 
 
